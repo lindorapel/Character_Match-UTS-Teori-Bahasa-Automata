@@ -1,0 +1,22 @@
+C:\Users\lindo\source\repos\UTS Automata_Ravel Erlindo\UTS Automata_Ravel Erlindo\bin\Debug\UTS Automata_Ravel Erlindo.exe.config
+C:\Users\lindo\source\repos\UTS Automata_Ravel Erlindo\UTS Automata_Ravel Erlindo\bin\Debug\UTS Automata_Ravel Erlindo.exe
+C:\Users\lindo\source\repos\UTS Automata_Ravel Erlindo\UTS Automata_Ravel Erlindo\bin\Debug\UTS Automata_Ravel Erlindo.pdb
+C:\Users\lindo\source\repos\UTS Automata_Ravel Erlindo\UTS Automata_Ravel Erlindo\obj\Debug\UTS Automata_Ravel Erlindo.csproj.AssemblyReference.cache
+C:\Users\lindo\source\repos\UTS Automata_Ravel Erlindo\UTS Automata_Ravel Erlindo\obj\Debug\UTS Automata_Ravel Erlindo.csproj.SuggestedBindingRedirects.cache
+C:\Users\lindo\source\repos\UTS Automata_Ravel Erlindo\UTS Automata_Ravel Erlindo\obj\Debug\UTS_Automata_Ravel_Erlindo.Form1.resources
+C:\Users\lindo\source\repos\UTS Automata_Ravel Erlindo\UTS Automata_Ravel Erlindo\obj\Debug\UTS_Automata_Ravel_Erlindo.Properties.Resources.resources
+C:\Users\lindo\source\repos\UTS Automata_Ravel Erlindo\UTS Automata_Ravel Erlindo\obj\Debug\UTS Automata_Ravel Erlindo.csproj.GenerateResource.cache
+C:\Users\lindo\source\repos\UTS Automata_Ravel Erlindo\UTS Automata_Ravel Erlindo\obj\Debug\UTS Automata_Ravel Erlindo.csproj.CoreCompileInputs.cache
+C:\Users\lindo\source\repos\UTS Automata_Ravel Erlindo\UTS Automata_Ravel Erlindo\obj\Debug\UTS Automata_Ravel Erlindo.exe
+C:\Users\lindo\source\repos\UTS Automata_Ravel Erlindo\UTS Automata_Ravel Erlindo\obj\Debug\UTS Automata_Ravel Erlindo.pdb
+E:\aKuliah\Ravel Erlindo\Semester 3\Teori Bahasa Automata\2107112748_Ravel Erlindo_UTS Teori Bahasa Automata\UTS Automata_Ravel Erlindo\bin\Debug\UTS Automata_Ravel Erlindo.exe.config
+E:\aKuliah\Ravel Erlindo\Semester 3\Teori Bahasa Automata\2107112748_Ravel Erlindo_UTS Teori Bahasa Automata\UTS Automata_Ravel Erlindo\bin\Debug\UTS Automata_Ravel Erlindo.exe
+E:\aKuliah\Ravel Erlindo\Semester 3\Teori Bahasa Automata\2107112748_Ravel Erlindo_UTS Teori Bahasa Automata\UTS Automata_Ravel Erlindo\bin\Debug\UTS Automata_Ravel Erlindo.pdb
+E:\aKuliah\Ravel Erlindo\Semester 3\Teori Bahasa Automata\2107112748_Ravel Erlindo_UTS Teori Bahasa Automata\UTS Automata_Ravel Erlindo\obj\Debug\UTS Automata_Ravel Erlindo.csproj.AssemblyReference.cache
+E:\aKuliah\Ravel Erlindo\Semester 3\Teori Bahasa Automata\2107112748_Ravel Erlindo_UTS Teori Bahasa Automata\UTS Automata_Ravel Erlindo\obj\Debug\UTS Automata_Ravel Erlindo.csproj.SuggestedBindingRedirects.cache
+E:\aKuliah\Ravel Erlindo\Semester 3\Teori Bahasa Automata\2107112748_Ravel Erlindo_UTS Teori Bahasa Automata\UTS Automata_Ravel Erlindo\obj\Debug\UTS_Automata_Ravel_Erlindo.Form1.resources
+E:\aKuliah\Ravel Erlindo\Semester 3\Teori Bahasa Automata\2107112748_Ravel Erlindo_UTS Teori Bahasa Automata\UTS Automata_Ravel Erlindo\obj\Debug\UTS_Automata_Ravel_Erlindo.Properties.Resources.resources
+E:\aKuliah\Ravel Erlindo\Semester 3\Teori Bahasa Automata\2107112748_Ravel Erlindo_UTS Teori Bahasa Automata\UTS Automata_Ravel Erlindo\obj\Debug\UTS Automata_Ravel Erlindo.csproj.GenerateResource.cache
+E:\aKuliah\Ravel Erlindo\Semester 3\Teori Bahasa Automata\2107112748_Ravel Erlindo_UTS Teori Bahasa Automata\UTS Automata_Ravel Erlindo\obj\Debug\UTS Automata_Ravel Erlindo.csproj.CoreCompileInputs.cache
+E:\aKuliah\Ravel Erlindo\Semester 3\Teori Bahasa Automata\2107112748_Ravel Erlindo_UTS Teori Bahasa Automata\UTS Automata_Ravel Erlindo\obj\Debug\UTS Automata_Ravel Erlindo.exe
+E:\aKuliah\Ravel Erlindo\Semester 3\Teori Bahasa Automata\2107112748_Ravel Erlindo_UTS Teori Bahasa Automata\UTS Automata_Ravel Erlindo\obj\Debug\UTS Automata_Ravel Erlindo.pdb
